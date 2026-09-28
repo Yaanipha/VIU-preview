@@ -1,0 +1,6 @@
+{
+  "name": "Viu - Fresh Releases & Asian Dramas",
+  "description": "Stream the latest Asian Dramas, Viu Originals, Simulcasts, and Variety shows with express localized subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
